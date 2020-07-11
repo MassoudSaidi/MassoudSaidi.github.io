@@ -13,6 +13,17 @@
 /*.navbar .nav {
   float: right; }*/
 
+  @font-face {
+  font-family: 'iransans';
+  src: url('/assets/fonts/IRANSansWeb.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/assets/fonts/IRANSansWeb.ttf')  format('truetype'); /* Safari, Android, iOS */
+	   }
+	   
+.masFarsi  {
+	font-family: iransans,tahoma,verdana,arial;	
+}
+
+
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
   color: #f22430;
