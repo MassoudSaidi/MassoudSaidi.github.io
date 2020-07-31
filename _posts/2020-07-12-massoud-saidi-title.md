@@ -53,6 +53,19 @@ How to build an SPA using Vue.js, Vuex, Vuetify, and Firebase: using Vue Router
 
     npm run build	
 	
+
+[Vue Tutorial: An Overview and Walkthrough](https://www.taniarascia.com/getting-started-with-vue/)
+
+
+[How to build a web app with Vue, Vuetify and Axios](https://medium.com/javascript-in-plain-english/implement-movie-app-with-vue-vuetify-axios-open-movie-database-api-d12290318cf9)
+
+https://medium.com/js-dojo/how-to-toggle-active-class-inside-v-for-2849dc54c40c
+https://web.stanford.edu/~peastman/statmech/statisticaldescription.html
+
+
+
+https://medium.com/@notaredpanda/the-essence-of-quantum-mechanics-part-1-measurement-and-spin-cec98216c8da
+
 ------------------------------------------	
 <br/>	
 <div dir="rtl" style="display:block;font-family:iransans">
