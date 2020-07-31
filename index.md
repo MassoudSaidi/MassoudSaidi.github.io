@@ -38,6 +38,8 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
+https://medium.com/@notaredpanda/the-essence-of-quantum-mechanics-part-1-measurement-and-spin-cec98216c8da
+
 ## To-Do
 
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
